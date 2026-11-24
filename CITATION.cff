@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Spain pension calculator 2026 (calculadora de pensión de jubilación)"
+message: "If you use this table or code, please cite it."
+type: software
+authors:
+  - family-names: Burguillos
+    given-names: Borja
+    orcid: "https://orcid.org/0009-0007-3531-7605"
+url: "https://borbur.net/es/herramientas/calculadora-pension-jubilacion/"
+repository-code: "https://github.com/Borbur14/spain-pension-calculator"
+license: MIT
+date-released: 2026-11-24
